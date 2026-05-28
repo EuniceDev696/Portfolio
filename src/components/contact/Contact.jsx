@@ -27,7 +27,7 @@ export default function Contact({ contactLinks }) {
             Let&apos;s build something clear, modern, and useful.
           </h2>
           <p className="body-copy mt-5 max-w-[52ch]">
-            I&apos;m available for freelance projects, remote opportunities, and
+            I am available for freelance projects, remote opportunities, and
             product collaborations where thoughtful design and strong frontend
             execution matter.
           </p>

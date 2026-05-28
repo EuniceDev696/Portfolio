@@ -24,14 +24,13 @@ export default function Hero({ stack }) {
         >
           <p className="section-label">Full Stack Developer</p>
           <h1 className="hero-heading mt-4 max-w-[18ch]">
-            Building clean digital products with thoughtful frontend experiences
-            and dependable backend systems.
+            Building modern web applications with seamless user experiences and scalable, dependable backend systems.
+            
           </h1>
 
           <p className="body-copy mt-6 max-w-[62ch] text-[1rem] sm:text-[1.05rem]">
             I design and build modern web applications with deliberate UX,
-            thoughtful performance, and scalable architecture—so teams ship
-            confidently.
+            thoughtful performance, and scalable architecture so users get reliable, high-quality experiences.
           </p>
 
           <div className="mt-8 flex flex-col gap-3 sm:flex-row sm:flex-wrap">
@@ -64,7 +63,7 @@ export default function Hero({ stack }) {
           <div className="overflow-hidden rounded-[32px] border border-[var(--color-border)] bg-[var(--color-card)] p-3 shadow-[var(--shadow-soft)]">
             <div className="overflow-hidden rounded-[28px] bg-[linear-gradient(180deg,rgba(255,255,255,0.44),rgba(255,255,255,0.14))]">
               <img
-                src="/profile-photo.png"
+                src="/public/profile photo-2.png.png"
                 alt="Portrait of Ewedairo Temitope Boluwatife"
                 className="h-[430px] w-full object-cover object-center md:h-[520px] lg:h-[580px]"
               />
@@ -78,7 +77,7 @@ export default function Hero({ stack }) {
             <div className="mt-3 flex items-center gap-3">
               <span className="h-2.5 w-2.5 rounded-full bg-[var(--color-accent)] shadow-[0_0_0_8px_rgba(181,106,69,0.10)]" />
               <p className="text-[0.98rem] font-medium text-[var(--color-text)]">
-                Open to freelance + remote product work
+                Open to freelance, remote, and full-time opportunities
               </p>
             </div>
           </div>

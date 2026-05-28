@@ -16,6 +16,7 @@ const navigation = [
 const stack = [
   "HTML5",
   "CSS3",
+  "React",
   "JavaScript",
   "Responsive Design",
   "Tailwind CSS",
@@ -131,9 +132,7 @@ export default function App() {
         <footer className="px-1 pb-3 pt-8 text-[0.9rem] text-[var(--color-muted)] sm:pt-10">
           <div className="flex flex-col gap-3 border-t border-[var(--color-border)] pt-5 sm:flex-row sm:items-center sm:justify-between">
             <p>© 2026 Ewedairo Temitope Boluwatife</p>
-            <p>
-              Designed and built for premium freelance and remote opportunities.
-            </p>
+            <p>Designed and built for premium work—freelance and remote.</p>
           </div>
         </footer>
       </div>
