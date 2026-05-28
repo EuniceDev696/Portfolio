@@ -63,7 +63,7 @@ export default function Hero({ stack }) {
           <div className="overflow-hidden rounded-[32px] border border-[var(--color-border)] bg-[var(--color-card)] p-3 shadow-[var(--shadow-soft)]">
             <div className="overflow-hidden rounded-[28px] bg-[linear-gradient(180deg,rgba(255,255,255,0.44),rgba(255,255,255,0.14))]">
               <img
-                src="/public/profile photo-2.png.png"
+                src="/profile photo-2.png.png"
                 alt="Portrait of Ewedairo Temitope Boluwatife"
                 className="h-[430px] w-full object-cover object-center md:h-[520px] lg:h-[580px]"
               />
